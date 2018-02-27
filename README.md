@@ -1,4 +1,10 @@
 # Importer
+A scheduler and job runner
+
+## Requirements:
+* Uses [exq](https://github.com/akira/exq) and [exq UI](https://github.com/akira/exq_ui)
+
+* **Requires Redis**
 
 To start your Phoenix server:
 
